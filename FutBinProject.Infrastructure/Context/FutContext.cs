@@ -11,6 +11,7 @@ namespace FutBinProject.Infrastructure.Context
 {
     public class FutContext : IdentityDbContext<ApplicationUser>
     {
+        //tryit
         public FutContext(DbContextOptions<FutContext> options) : base(options) { }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<LineUp> LineUps { get; set; }
