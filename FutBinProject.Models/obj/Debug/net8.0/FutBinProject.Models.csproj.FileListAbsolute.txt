@@ -1,0 +1,13 @@
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\bin\Debug\net8.0\FutBinProject.Models.deps.json
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\bin\Debug\net8.0\FutBinProject.Models.dll
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\bin\Debug\net8.0\FutBinProject.Models.pdb
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.csproj.AssemblyReference.cache
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.AssemblyInfoInputs.cache
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.AssemblyInfo.cs
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.csproj.CoreCompileInputs.cache
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.sourcelink.json
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.dll
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\refint\FutBinProject.Models.dll
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\FutBinProject.Models.pdb
+E:\Projects\FutBin\FutBin-Backend\FutBinProject.Models\obj\Debug\net8.0\ref\FutBinProject.Models.dll
